@@ -39,7 +39,7 @@ const FrontPage = () => {
             <div className="response">
               {result ? (
                 <div>
-                  <p><strong>English:</strong> {result.English}</p>
+                  // <p><strong>English:</strong> {result.English}</p>
                   <p><strong>Hungarian:</strong> {result.Hungarian}</p>
                   { !hide && (
                     <>
